@@ -1,0 +1,4 @@
+django-phonenumber-field==7.3.0
+phonenumbers==8.13.28
+psycopg2-binary==2.9.9
+Pillow==10.2.0
